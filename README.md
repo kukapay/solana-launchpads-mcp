@@ -25,7 +25,7 @@ An MCP server that tracks daily activity and graduate metrics across multiple So
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/solana-launchpads-mcp.git
+   git clone https://github.com/kukapay/solana-launchpads-mcp.git
    cd solana-launchpads-mcp
    ```
 
